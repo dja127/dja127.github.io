@@ -1,0 +1,3 @@
+Testing that mathjax works ...
+
+$$y = x^2$$
