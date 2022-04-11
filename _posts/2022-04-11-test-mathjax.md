@@ -5,6 +5,5 @@ categories: test
 ---
 
 Testing that mathjax works ...
-
-$$y = x^2$$
+$$ y = x^2 $$
 
